@@ -2,15 +2,15 @@
 
 ## Proofs
 
-1. Strong Induction
-2. Invariants
+1. [Strong Induction](proofs/induction.md)
+2. [Invariants](proofs/invariants.md)
 3. Big O
 4. Recurrences
 
 ## Matching
 
-1. Order Statistics
-2. Stable Matching
+1. [Stable Matching](matching/stable.md)
+2. Order Statistics
 3. String Matching
 
 ## Graphs
