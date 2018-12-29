@@ -31,7 +31,9 @@ Two elements $m, n$ are coprime if their `gcd` is $1$; $\phi(m \times n) = \phi(
 
 > For a prime $p$ and a positive integer $k$ we have $\phi(p^x) = p^{k-1}(p - 1)$
 
-To find $\phi(n)$, factor n as distinct primes$^{powers}$ and add the $\phi$s.
+> $\therefore \phi(p) = p-1$ if $p$ is prime
+
+To find $\phi(n)$, factor n as distinct primes$^{powers}$ and **multiply** the $\phi$s.
 
 # Exponent Arithmetic
 
