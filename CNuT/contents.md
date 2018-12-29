@@ -3,10 +3,10 @@
 ## Groups
 
 1. [Groups](groups/groups.md)
-2. Subgroups
-3. Rings
-5. Polynomials
-6. Finite Fields
+2. [Subgroups](groups/subgroups.md)
+3. [Rings](groups/rings.md)
+5. [Polynomials](groups/polynomials.md)
+6. [Finite Fields](groups/fields.md)
 
 ## Linear Algebra
 
