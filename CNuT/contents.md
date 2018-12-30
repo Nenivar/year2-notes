@@ -10,7 +10,7 @@
 
 ## Linear Algebra
 
-1. Linear Algebra I
+1. [Linear Algebra I](linear_algebra/algebra_1.md)
 2. Linear Algebra II
 
 ## Homomorphisms
@@ -28,7 +28,7 @@
 1. Introduction
 2. Hamming Distance
 3. Linear Codes
-4. Hamming & RS Codes
+4. Hamming & sRS Codes
 
 ## Information Theory
 
