@@ -11,11 +11,11 @@
 ## Linear Algebra
 
 1. [Linear Algebra I](linear_algebra/algebra_1.md)
-2. Linear Algebra II
+2. [Linear Algebra II](linear_algebra/algebra_2.md)
 
 ## Homomorphisms
 
-1. Homomorphisms
+1. [Homomorphisms](homomorphisms/homomorphisms.md)
 2. Isomorphisms
 
 ## Probability

@@ -4,8 +4,8 @@
 
 1. [Strong Induction](proofs/induction.md)
 2. [Invariants](proofs/invariants.md)
-3. Big O
-4. Recurrences
+3. [Big O](proofs/big_o.md)
+4. [Recurrences](proofs/recurrences.md)
 
 ## Matching
 
