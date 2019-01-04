@@ -16,11 +16,11 @@
 ## Homomorphisms
 
 1. [Homomorphisms](homomorphisms/homomorphisms.md)
-2. Isomorphisms
+2. [Isomorphisms](homomorphisms/isomorphisms.md)
 
 ## Probability
 
-1. Probability I
+1. [Probability I](probability/probability_1.md)
 2. Probability II
 
 ## Coding Theory
