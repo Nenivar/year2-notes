@@ -10,7 +10,7 @@
 ## Matching
 
 1. [Stable Matching](matching/stable.md)
-2. Order Statistics
+2. [Order Statistics](matching/order.md)
 3. String Matching
 
 ## Graphs
