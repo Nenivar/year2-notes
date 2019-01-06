@@ -11,7 +11,7 @@
 
 1. [Stable Matching](matching/stable.md)
 2. [Order Statistics](matching/order.md)
-3. String Matching
+3. [String Matching](matching/string.md)
 
 ## Graphs
 
@@ -32,5 +32,5 @@
 
 ## Misc
 
-1. Fast Fourier Transforms
+1. [Fast Fourier Transforms](misc/fft.md)
 1. Dynamic Programming

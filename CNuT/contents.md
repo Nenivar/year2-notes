@@ -21,14 +21,14 @@
 ## Probability
 
 1. [Probability I](probability/probability_1.md)
-2. Probability II
+2. [Probability II](probability/probability_2.md)
 
 ## Coding Theory
 
-1. Introduction
-2. Hamming Distance
-3. Linear Codes
-4. Hamming & sRS Codes
+1. [Introduction](coding/introduction.md)
+2. [Hamming Distance](coding/hamming.md)
+3. [Linear Codes](coding/linear_codes.md)
+4. Hamming & RS Codes
 
 ## Information Theory
 
