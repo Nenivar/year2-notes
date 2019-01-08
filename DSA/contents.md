@@ -33,4 +33,4 @@
 ## Misc
 
 1. [Fast Fourier Transforms](misc/fft.md)
-1. Dynamic Programming
+1. [Dynamic Programming](misc/dynamic.md)
