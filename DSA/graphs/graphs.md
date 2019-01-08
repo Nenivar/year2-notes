@@ -11,11 +11,13 @@ Their runtimes are:
 
 |                             | Adj. Matrix     | Adj. List              |
 |-----------------------------|-----------------|------------------------|
-|  Space                      | $\Theta$(`|V|`) | $\Theta$(`|V| + |E|`)  |
-|  Edge u->v?                 | O(`1`)          | O(`deg(u)`)            |
-| All edges leaving u $\in$ V | O(`V`)          | O(`deg(u)`)            |
+|  Space                      | $\Theta(\vert V\vert)$   | $\Theta(\vert V\vert + \vert E\vert)$  |
+|  Edge u->v?                 | $O(1)$          | $O(deg(u))$            |
+| All edges leaving u $\in$ V | $O(\vert V\vert)$          | $O(deg(u))$            |
 
-> `deg(u)` is the number of edges leaving u
+> $deg(u)$ is the number of edges leaving u
+
+---
 
 ## Exploring a graph
 
@@ -89,3 +91,6 @@ Traverse(s):
 ```
 
 This gives us a total time-complexity of O(`|E| + |V|`)
+
+> #### Lemma
+> In BFS, the vertices are marked in distance order (smallest first)

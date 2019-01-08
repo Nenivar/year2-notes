@@ -21,7 +21,7 @@
 2. [Single Shortest Paths](graphs/shortest.md)
     * Priority Queues
     * Dijkstra's Algorithm
-3. Minimum Spanning Trees
+3. [Minimum Spanning Trees](graphs/min_span.md)
 4. Dynamic Search Structures
     * Self-balancing Trees
     * Skip Lists

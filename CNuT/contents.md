@@ -28,11 +28,11 @@
 1. [Introduction](coding/introduction.md)
 2. [Hamming Distance](coding/hamming.md)
 3. [Linear Codes](coding/linear_codes.md)
-4. Hamming & RS Codes
+4. [Hamming & RS Codes](coding/reed.md)
 
 ## Information Theory
 
-1. Introduction
+1. [Introduction](information/introduction.md)
 2. Entropy
 3. Source coding
 4. Channel coding
