@@ -33,6 +33,6 @@
 ## Information Theory
 
 1. [Introduction](information/introduction.md)
-2. Entropy
-3. Source coding
-4. Channel coding
+2. [Entropy](information/entropy.md)
+3. [Source Coding](information/source.md)
+4. [Channel Coding](information/channel.md)
