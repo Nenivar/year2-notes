@@ -22,10 +22,10 @@
     * Priority Queues
     * Dijkstra's Algorithm
 3. [Minimum Spanning Trees](graphs/min_span.md)
-4. Dynamic Search Structures
+4. [Dynamic Search Structures](graphs/dynamic_search.md)
     * Self-balancing Trees
     * Skip Lists
-5. Line Segment Intersection
+5. [Line Segment Intersection](graphs/lines.md)
 6. Shortest Paths II
     1. Negative Weights
     2. All-Pairs
