@@ -26,11 +26,15 @@
     * Self-balancing Trees
     * Skip Lists
 5. [Line Segment Intersection](graphs/lines.md)
-6. Shortest Paths II
+6. [Shortest Paths II](graphs/shortest_2.md)
     1. Negative Weights
     2. All-Pairs
+7. Maximum Flow
 
 ## Misc
 
 1. [Fast Fourier Transforms](misc/fft.md)
 1. [Dynamic Programming](misc/dynamic.md)
+2. Linear Programming
+3. Algorithmic Game Theory
+4. P & NP
