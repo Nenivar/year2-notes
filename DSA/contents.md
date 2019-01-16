@@ -29,12 +29,12 @@
 6. [Shortest Paths II](graphs/shortest_2.md)
     1. Negative Weights
     2. All-Pairs
-7. Maximum Flow
+7. [Maximum Flow](graphs/max_flow.md)
 
 ## Misc
 
 1. [Fast Fourier Transforms](misc/fft.md)
 1. [Dynamic Programming](misc/dynamic.md)
-2. Linear Programming
-3. Algorithmic Game Theory
-4. P & NP
+2. [Linear Programming](misc/linear.md)
+3. [Algorithmic Game Theory](misc/game.md)
+4. [P & NP](misc/p_np.md)

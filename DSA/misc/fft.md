@@ -128,6 +128,8 @@ This vector is the **Discrete Fourier Transform** DFT of the coeff. vector $a = 
 > 
 > is $0, -1 + i, 2, -1 -i$
 
+> The DFT of a degree 3 polynomial is (1, -1, i, -i)
+
 ---
 
 ## FFT
